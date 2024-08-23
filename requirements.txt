@@ -1,0 +1,8 @@
+streamlit
+kafka-python
+pymongo
+pandas
+pymongo
+requests
+confluent-kafka
+kafka

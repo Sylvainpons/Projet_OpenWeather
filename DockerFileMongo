@@ -1,0 +1,14 @@
+# Utiliser l'image officielle MongoDB comme base
+FROM mongo:latest
+
+# Définir le répertoire de travail
+WORKDIR /data/db
+
+# Copier les scripts d'initialisation (si vous en avez)
+# COPY init-scripts /docker-entrypoint-initdb.d/
+
+# Exposer le port par défaut de MongoDB
+EXPOSE 27017
+
+# Commande par défaut pour exécuter MongoDB
+CMD ["mongod"]
