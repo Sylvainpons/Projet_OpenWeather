@@ -1,4 +1,10 @@
 # Projet_OpenWeather
-Pons Sylvain
-Stéphane Berat
-Antoine Vachon Hartman
+Streaming Avec Kafka:
+
+Etudiants:
+- Sylvain Pons 
+- Stéphane Berat
+- Antoine Vachon Hartman
+
+Formateur : 
+- Sellami Mokhtar
